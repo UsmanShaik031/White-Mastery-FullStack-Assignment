@@ -1,0 +1,15 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background: #D3D3D3;
+    min-height: 100vh;
+}
+.w3-bar {
+    margin-bottom: 20px;
+}
+
+.center-to-screen{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
